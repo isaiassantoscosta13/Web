@@ -1,2 +1,2 @@
 # Web
-Repositório HTML, CSS JAVASCRIPT
+Repositório HTML, CSS e JAVASCRIPT
